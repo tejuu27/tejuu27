@@ -1,53 +1,109 @@
-# Hi, I'm Tejushree 👋
+# Hey, I'm Tejushree 👋
 
-### Full-Stack Web Developer | MERN Stack
+### Full-Stack Developer • MERN Learner • Problem Solver
 
-I'm a student developer passionate about building practical, user-focused web applications and continuously improving my development skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Building+things+that+are+simple+and+useful.;Learning+the+MERN+stack.;Turning+ideas+into+working+applications." alt="Typing SVG" />
+</p>
 
-Currently learning and building with the **MERN stack** while strengthening my problem-solving and DSA skills.
+---
 
-## 🚀 What I'm Working With
+## 👩‍💻 About Me
 
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Languages:** Java, JavaScript, Python
-* **Tools:** Git, GitHub, VS Code
+I'm a student developer who enjoys turning ideas into practical web applications.
 
-## 💻 Featured Projects
+Currently, I'm focused on learning **full-stack development with the MERN stack**, strengthening my problem-solving skills, and building projects that help me learn by doing.
+
+```text
+💻 Building       → Web applications & full-stack projects
+🌱 Learning       → MERN stack & backend development
+🧠 Improving      → DSA & problem solving
+🎯 Goal           → Become a strong full-stack developer
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🏋️ FitForge
 
 A fitness tracking web application designed to help users track and manage their fitness activities.
 
+**Tech:** HTML • CSS • JavaScript
+
+---
+
 ### 🧠 MindVault
 
-An interactive memory game focused on improving memory and concentration through gameplay.
+An interactive memory game designed around gameplay, interaction, and memory challenges.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
 
 ### 🌿 QuoteNest
 
-A personal quote-saving web application where users can save, manage, and organize their favorite quotes.
+A personal quote-saving application for storing and managing favorite quotes with persistent local storage.
+
+**Tech:** HTML • CSS • JavaScript • LocalStorage
+
+---
 
 ### 🛒 ShopKart
 
-A full-stack e-commerce application I'm building while learning backend development, authentication, APIs, and MongoDB.
+A full-stack e-commerce application I'm building while learning backend development, APIs, authentication, and MongoDB.
 
-## 🎯 Currently Learning
+**Tech:** React • Node.js • Express • MongoDB
 
-* MERN Stack Development
-* REST APIs
-* Authentication & Authorization
-* MongoDB & Mongoose
-* Backend Architecture
-* Data Structures & Algorithms
-* Building and deploying real-world applications
+---
 
-## 📈 My Goal
+## 📚 Currently Learning
 
-To become a strong full-stack developer by building real-world projects, solving meaningful problems, and continuously learning new technologies.
+```text
+React
+ └── Components • State • Hooks • API Integration
 
-## 📫 Let's Connect
+Node.js + Express
+ └── REST APIs • Middleware • Authentication
 
-I'm always interested in learning, collaborating, and working on interesting projects.
+MongoDB
+ └── Mongoose • CRUD • Data Modeling
 
-[GitHub](https://github.com/tejuu27)
+DSA
+ └── Problem Solving • Algorithms • Complexity
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejuu27&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejuu27&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌱 What's Next?
+
+I'm currently focused on:
+
+* Building more full-stack applications
+* Improving my MERN skills
+* Working on real-world projects
+* Exploring freelance opportunities
+* Becoming a better problem solver
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
+</p>
